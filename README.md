@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Basic tic tac tope game created in a jupyter notebook
+Basic tic tac toe game created in a jupyter notebook
